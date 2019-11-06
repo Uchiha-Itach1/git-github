@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 print("what are u doing")
+=======
+print("what is your name is")
+>>>>>>> firstbranch

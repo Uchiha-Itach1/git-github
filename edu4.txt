@@ -1,2 +1,3 @@
 print("first branching commit")
 print ("modified first branch after merging")
+Print("checked after merging it with master branch")

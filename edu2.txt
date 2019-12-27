@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-print("how are u")
-=======
-print ("how are u")
->>>>>>> firstbranch
